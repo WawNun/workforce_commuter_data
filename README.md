@@ -2,7 +2,7 @@
 
 - Targets
 
--[] Western Riverside County, CA
+ Western Riverside County, CA
 
 
 
